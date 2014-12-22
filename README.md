@@ -38,73 +38,110 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-1. CHAP. I.
+1. TO THE KINGS
+MOST EXCELLENT
+MAIESTIE,
+CHARLES,
+BY THE GRACE OF GOD
+King of Great Britaine, France, and
+Ireland, Defender of the Faith, &c.
+
+1. A
+PREFACE TO THE
+GRAVE, LEARNED,
+and religious Clergie of the
+Diocesse of LINCOLN.
+PErlegi librum hunc, cui titulus est [Antidotum
+Lincolniense, &c.] in quo nihil reperio sanae
+doctri
+1. The Contents of each severall Section
+and Chapter, contained in this
+Treatise.
+
+    _ SECTION I.
+
+      * CHAP. I.
 Of the state of the question, and the occasion of writing
 the letter to the Vicar of Gr.
 
-1. CHAP. II.
+      * CHAP. II.
 Of the Regall power in matters Ecclesiasticall, and
 whether it was ever exercised in setling the Communion
 Table in forme of an Altar.
 
-1. CHAP. III.
+      * CHAP. III.
 Of the Episcopall authority in points of Ceremonie;
 the piety of the times, and good worke in hand; and of
 the Evidence produced from the Acts and Monuments.
 
-1. CHAP. IV.
+      * CHAP. IV.
 Of taking downe Altars in K. Edw. time, altering the
 Liturgie first made; and of the 82. Canon.
 
-1. CHAP. V.
+    _ SECTION II.
+
+      * CHAP. V.
 What was the ancient Doctrine of the Church concerning
 Sacrifices, Priests, and Altars: and what the Doctrine
 of this Church in those particulars.
 
-1. CHAP. VI.
+      * CHAP. VI.
 An Answer to the •avils of the Minister of Linc. against
 the points delivered in the former Chapter.
 
-1. CHAP. VII.
+      * CHAP. VII.
 Of Churches, and the fashion of them, and of the usuall
 place allotted in the Church for the holy Altar.
 
-1. CHAP. VIII.
+      * CHAP. VIII.
 An answer to the Minister of Lincolns Arguments against
 the standing of the Lords Table at the upper end of the
 Quire.
 
-1. CHAP. IX.
+    _ SECTION III.
+
+      * CHAP. IX.
 A brief survey and c•nsure of the first service of Ex••avagancies, in the holy Table.
 
-1. CHAP. X.
+      * CHAP. X.
 The second service of Extravagancies, sent up and set before
 his guests by the Minister of Lincoln.
 
 #####Body#####
 
-1. CHAP. I.
+1. ANTIDOTVM
+LINCOLNIENSE.
 
-1. CHAP. II.
+    _ SECTION I.
 
-1. CHAP. III.
+      * CHAP. I.
 
-1. CHAP. IV.
+      * CHAP. II.
 
-1. CHAP. V.
+      * CHAP. III.
 
-1. CHAP. VI.
+      * CHAP. IV.
 
-1. CHAP. VII.
+    _ SECTION II.
 
-1. CHAP. VIII.
+      * CHAP. V.
 
-1. CHAP. IX.
+      * CHAP. VI.
 
-1. CHAP. X.
+      * CHAP. VII.
+
+      * CHAP. VIII.
+
+    _ SECTION III.
+
+      * CHAP. IX.
+
+      * CHAP. X.
 
 #####Back#####
-Antidotum Lincolniense· or An answer to a book entituled, The holy table, name, & thing, &c. said to
+
+1. Errata.
+
 **Types of content**
 
   * There are 4 **verse** lines!
